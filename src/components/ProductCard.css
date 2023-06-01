@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px) {
+  .card-body {
+    height: 30vh;
+  }
+}
+.card-body {
+  height: 50vh;
+  width: 15vw;
+}
